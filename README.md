@@ -32,8 +32,8 @@
                 
                 <!-- 이미지 영역 -->
                 <div class="h-64 overflow-hidden">
-                    <!-- 사과 이미지 (업로드된 파일 사용) -->
-                    <img src="uploaded:mchan0418/image/image-238a74483f1442858dfa3a982435151c8dac6270/사과.jpg" alt="탐스러운 붉은 사과" class="w-full h-full object-cover">
+                    <!-- 사과 이미지 (외부 GitHub raw URL 유지) -->
+                    <img src="https://github.com/mchan0418/image/blob/main/%EC%82%AC%EA%B3%BC.jpg?raw=true" alt="탐스러운 붉은 사과" class="w-full h-full object-cover">
                 </div>
 
                 <!-- 내용 영역 -->
@@ -52,8 +52,8 @@
                 
                 <!-- 이미지 영역 -->
                 <div class="h-64 overflow-hidden">
-                    <!-- 배 이미지 (업로드된 파일 사용) -->
-                    <img src="uploaded:mchan0418/image/image-238a74483f1442858dfa3a982435151c8dac6270/배.jpg" alt="시원하고 달콤한 배" class="w-full h-full object-cover">
+                    <!-- 배 이미지 (외부 GitHub raw URL로 수정) -->
+                    <img src="https://github.com/mchan0418/image/blob/main/%EB%B0%B0.jpg?raw=true" alt="시원하고 달콤한 배" class="w-full h-full object-cover">
                 </div>
 
                 <!-- 내용 영역 -->
