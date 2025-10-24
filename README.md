@@ -60,7 +60,7 @@
                     <img src="https://github.com/mchan0418/image/blob/main/%EB%B0%B0.jpg?raw=true" 
                          alt="시원하고 달콤한 배" 
                          class="w-full h-full object-cover transition duration-500 hover:scale-105"
-                         onerror="this.onerror=null;this.src='https://placehold.co/600x400/34d399/ffffff?text=Pear';"
+                         onerror="this.onerror=null;this.src='https://placehold.co/600x400/34d399/ffffff?text=Pear';" 
                     >
                 </div>
 
